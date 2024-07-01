@@ -1,0 +1,14 @@
+.AuthHeadaer >button {
+    background: transparent;
+    border: none;
+   
+}
+.AuthHeadaer >* {
+
+    color: rgb(62, 18, 87);
+    font-size: large;
+    font-weight: bolder;
+}
+.AuthHeadaer >button:hover {
+cursor: pointer;
+}

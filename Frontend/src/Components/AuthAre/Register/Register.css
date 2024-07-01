@@ -1,0 +1,39 @@
+.mainForm {
+   height: 100%;
+    margin: 5%;
+}
+
+.mainForm > .formBox  {
+   
+    background-image: url("../../../../assets/images/backgrounf-form.jpg");
+    border-radius: 10px ;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    border: none;
+    max-height: 450px;
+    max-width: 350px;
+    text-align: center;    
+	
+}
+.mainForm > .formBox > h1 {
+
+    text-align: center;    
+	
+}
+.mainForm > .formBox >  form > .formm > button {
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+    background-color: black;
+    border:1px solid ;
+    border-radius: 5px;
+	
+}
+.mainForm > .formBox >  form > .formm > button:hover {
+    color: black;
+    background-color: white;
+   cursor: pointer;
+	
+}
+

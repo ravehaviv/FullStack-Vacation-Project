@@ -1,0 +1,13 @@
+.Header {
+    padding: 5px;
+    height: 100%;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.Header > span:nth-of-type(3){
+    position: relative;
+    right: 20px;
+} 

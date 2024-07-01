@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "userName": "john_doe",
+      "password": "password123",
+      "userRole": "admin"
+    },
+    {
+      "id": 2,
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "userName": "alice_smith",
+      "password": "pass123",
+      "userRole": "user"
+    },
+    {
+      "id": 3,
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "userName": "bob_j",
+      "password": "securepass",
+      "userRole": "user"
+    },
+    {
+      "id": 4,
+      "firstName": "Emily",
+      "lastName": "Williams",
+      "userName": "emilyw",
+      "password": "mypassword",
+      "userRole": "user"
+    },
+    {
+      "id": 5,
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "userName": "mike_brown",
+      "password": "p@ssw0rd",
+      "userRole": "admin"
+    },
+    {
+      "id": 6,
+      "firstName": "Samantha",
+      "lastName": "Jones",
+      "userName": "sam_j",
+      "password": "sam123",
+      "userRole": "user"
+    },
+    {
+      "id": 7,
+      "firstName": "David",
+      "lastName": "Clark",
+      "userName": "david_c",
+      "password": "clark_pass",
+      "userRole": "user"
+    },
+    {
+      "id": 8,
+      "firstName": "Sophie",
+      "lastName": "Miller",
+      "userName": "sophie_m",
+      "password": "sophiepass",
+      "userRole": "user"
+    },
+    {
+      "id": 9,
+      "firstName": "Andrew",
+      "lastName": "Taylor",
+      "userName": "andrew_t",
+      "password": "taylor123",
+      "userRole": "admin"
+    },
+    {
+      "id": 10,
+      "firstName": "Olivia",
+      "lastName": "White",
+      "userName": "olivia_w",
+      "password": "olivia_pass",
+      "userRole": "user"
+    }
+  ]

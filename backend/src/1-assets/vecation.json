@@ -1,0 +1,92 @@
+[
+    {
+      "vecationID": 1,
+      "destination": "Hawaii",
+      "description": "Experience the beauty of the Hawaiian islands with sun, sand, and surf.",
+      "startDate": "2024-06-01",
+      "endDate": "2024-06-10",
+      "price": 2500.00,
+      "photoName": "hawaii.jpg"
+    },
+    {
+      "vecationID": 2,
+      "destination": "Paris",
+      "description": "Explore the romantic streets of Paris, visit iconic landmarks, and indulge in delicious cuisine.",
+      "startDate": "2024-07-15",
+      "endDate": "2024-07-25",
+      "price": 3500.00,
+      "photoName": "paris.jpg"
+    },
+    {
+      "vecationID": 3,
+      "destination": "Bali",
+      "description": "Relax on the stunning beaches of Bali, enjoy vibrant culture, and experience serene landscapes.",
+      "startDate": "2024-08-05",
+      "endDate": "2024-08-15",
+      "price": 3000.00,
+      "photoName": "bali.jpg"
+    },
+    {
+      "vecationID": 4,
+      "destination": "New York City",
+      "description": "Immerse yourself in the energy of the Big Apple, explore iconic landmarks, and enjoy Broadway shows.",
+      "startDate": "2024-09-10",
+      "endDate": "2024-09-20",
+      "price": 2800.00,
+      "photoName": "nyc.jpg"
+    },
+    {
+      "vecationID": 5,
+      "destination": "Tokyo",
+      "description": "Discover the unique blend of modern and traditional in Tokyo, explore vibrant neighborhoods, and savor sushi.",
+      "startDate": "2024-10-01",
+      "endDate": "2024-10-10",
+      "price": 3200.00,
+      "photoName": "tokyo.jpg"
+    },
+    {
+      "vecationID": 6,
+      "destination": "Rome",
+      "description": "Step back in time in the historic city of Rome, explore ancient ruins, and enjoy authentic Italian cuisine.",
+      "startDate": "2024-11-05",
+      "endDate": "2024-11-15",
+      "price": 3700.00,
+      "photoName": "rome.jpg"
+    },
+    {
+      "vecationID": 7,
+      "destination": "Sydney",
+      "description": "Experience the vibrant culture of Sydney, explore beautiful beaches, and encounter unique wildlife.",
+      "startDate": "2024-12-01",
+      "endDate": "2024-12-10",
+      "price": 2900.00,
+      "photoName": "sydney.jpg"
+    },
+    {
+      "vecationID": 8,
+      "destination": "Marrakech",
+      "description": "Immerse yourself in the exotic charm of Marrakech, explore bustling souks, and enjoy traditional Moroccan cuisine.",
+      "startDate": "2025-01-05",
+      "endDate": "2025-01-15",
+      "price": 3400.00,
+      "photoName": "marrakech.jpg"
+    },
+    {
+      "vecationID": 9,
+      "destination": "Cancun",
+      "description": "Relax on the beautiful beaches of Cancun, indulge in water activities, and enjoy vibrant nightlife.",
+      "startDate": "2025-02-10",
+      "endDate": "2025-02-20",
+      "price": 2600.00,
+      "photoName": "cancun.jpg"
+    },
+    {
+      "vecationID": 10,
+      "destination": "Barcelona",
+      "description": "Experience the architectural wonders of Barcelona, savor delicious tapas, and enjoy the lively atmosphere.",
+      "startDate": "2025-03-01",
+      "endDate": "2025-03-10",
+      "price": 3100.00,
+      "photoName": "barcelona.jpg"
+    }
+  ]

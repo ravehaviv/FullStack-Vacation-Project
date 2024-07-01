@@ -1,0 +1,10 @@
+.VecationCard > div> .controllEdit {
+    width: 200px;
+	display: flex;
+    gap: 30px;
+    
+}
+.VecationCard > div> .controllEdit >button:hover {
+cursor: pointer;
+    
+}

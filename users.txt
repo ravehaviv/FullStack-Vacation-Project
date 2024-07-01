@@ -1,0 +1,5 @@
+regular user: Rave
+password: 123456
+
+admin user: RaveAdmin
+password:123456

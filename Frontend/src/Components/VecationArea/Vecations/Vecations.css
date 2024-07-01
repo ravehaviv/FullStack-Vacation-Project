@@ -1,0 +1,28 @@
+.Vecations {
+    margin-top:20px ;
+    padding: 5px;
+	display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+.divButton> .AddButton {
+    
+    text-align: center;
+    background: transparent;
+    border: none;
+    font-size: xx-large;
+    font-weight: bolder;
+    position: relative;
+    left: 40%;
+    height: 80px;
+    width: 300px;
+}
+.divButton>  {
+   
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
